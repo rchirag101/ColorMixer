@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="mytheme" parent="android:ThemeOverlay.Material.Dark" tools:targetApi="lollipop">
+    </style>
+
+    <style name="mytheme2" parent="android:ThemeOverlay.Material" tools:targetApi="lollipop">
+    </style>
+
+</resources>
