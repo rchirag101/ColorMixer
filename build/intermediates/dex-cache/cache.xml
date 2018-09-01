@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf301efbcc079b152562131c846a709301071594">
+        <dex dex="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_17255e41436d989bfcc8c7b03948cac252b6db6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha7_cb3faadaa260fc72bd9d82bffc962e5f932e978f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b56d3c1fddafcecba3d92d890a794af4a5b62845">
+        <dex dex="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adc179d7c2e5a52858b7e57884ea41c28dafd9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chirag.DELLINSPIRON354\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\chirag.DELLINSPIRON354\AndroidStudioProjects\RGBDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_181d564c43896ec2ece0ace7da9e094eaf27ebb5\classes.dex" />
+    </item>
+
+</items>
